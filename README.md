@@ -5,7 +5,7 @@
 [Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/3BD3DgMu8L> "Prova de Suficiência (inscrição)"
 
-# Disciplina de Introdução à Programação
+# Disciplina de Introdução à Programação - A (CMP.0166.00.002-0) - Luciana Pereira de Araújo Kohler  
 
 Olá, seja bem vindo .. 😁  
 
