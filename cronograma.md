@@ -30,10 +30,10 @@
 
 <!-- Cronograma da planilha-->
 
-# Cronograma: 2023-2 IP_A BCC not  
+# Cronograma: 2024-1 IP_A BCC mat  
   
-Local: S-415  
-Dia da semana: Segundas (18:30\~22:00)  Quintas (18:30\~20:10)
+Local: S-429  
+Dia da semana: Segundas (09:30\~11:10)  Quintas (07:30\~22:00)
   
 <!-- [x] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
 ## [Unidade1](Unidade1 "Unidade1")  
