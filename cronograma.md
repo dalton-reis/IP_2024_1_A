@@ -41,7 +41,7 @@ Dia da semana: Segundas (09:30\~11:10)  Quintas (07:30\~22:00)
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
 Fontes: [src](Unidade1/src "src")  
   
-### [Aula_01](Unidade1/aulaAnotacoes.md#Aula_01 " 03-08-2023 quinta-feira ") 03-08-2023 quinta-feira
+### [Aula_01](Unidade1/aulaAnotacoes.md#Aula_01 " 22-02-2024 quinta-feira ") 22-02-2024 quinta-feira
   
 - apresentação, plano de ensino e AVA3: [Plano de Ensino];  
 - conteúdo e cronograma (aulas teóricas x práticas), frequências e avaliações (DION), e bibliografia;  
@@ -54,7 +54,7 @@ Fontes: [src](Unidade1/src "src")
 <!-- [x] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
 - visão geral dos fundamentos da programação de computadores.  
   
-### [Aula_02](Unidade1/aulaAnotacoes.md#Aula_02 " 07-08-2023 segunda-feira ") 07-08-2023 segunda-feira
+### [Aula_02](Unidade1/aulaAnotacoes.md#Aula_02 " 22-02-2024 quinta-feira ") 22-02-2024 quinta-feira
   
 - visão geral dos fundamentos da programação de computadores;  
 - demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível).  
