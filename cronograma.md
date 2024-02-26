@@ -435,4 +435,4 @@ Desenvolvimento do Trabalho Final que envolve todo o conteúdo da disciplina, ma
   
 -----------
 <!-- [ ] Aviso: DION: fechar notas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-64075325> -->
-Último dia para entregar os diários de classe 2023/2: 02/12/23 - 12/12/23  
+Último dia para entregar os diários de classe 2024/1: 22/06/24 - 29/06/24  
