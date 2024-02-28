@@ -266,9 +266,12 @@ descrever solução formalmente __
 | largura =  5, comprimento =  7 | área =  35​ |  
 | largura =  3, comprimento = 90 | área = 270​ |  
 
+------
+### Documentação Java - Javadoc
+https://docs.oracle.com/javase/8/docs/api/index.html
+
 ## Ambiente de Desenvolvimento Prático - Apoio
 
-## Documentação Java - Javadoc
-https://docs.oracle.com/javase/8/docs/api/index.html
+
 
 - [ ] [Ambiente de Desenvolvimento Prático](IDE.md "Ambiente de Desenvolvimento Prático").  
