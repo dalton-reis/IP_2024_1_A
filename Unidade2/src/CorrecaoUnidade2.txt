@@ -1,0 +1,79 @@
+3) Calcule a área da circunferência elevando o valor de raio ao quadrado e multiplicando por π (π = 3.14159).
+
+Análise: Faltou informar o tipo de dado do raio
+Entrada: raio
+Saída: area
+Testes:
+T1
+raio = 2
+area = 12,56636
+
+T2
+raio = 5
+area = 78,53975
+
+T3
+raio = 1
+area = 3,14159
+
+Algoritmo:
+FLUXOGRAMA
+
+
+5) Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
+
+Análise: OK
+Entrada: a, b, c, d
+Saída: diferenca
+Testes:
+T1
+a = 4
+b = 2
+c = 5
+d = 7
+diferenca = -27
+
+T2
+a = 8
+b = 5
+c = 2
+d = 2
+diferenca = 36
+
+T3
+a = -10
+b = 5
+c = -5
+d = -2
+diferenca = -60
+Algoritmo:
+FLUXOGRAMA
+
+
+
+6) Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
+
+Análise: OK
+Entrada: numero do funcionario, horas trabalhadas, valor da hora
+Saída: salario
+Testes:
+T1
+numero funcionario: 1
+horas trabalhadas: 40
+valor da hora: 20
+salário: 800,00
+
+T2
+numero funcionario: 2
+horas trabalhadas: 200
+valor da hora: 10,50
+salário: 2100,00
+
+T3
+numero funcionario: 3
+horas trabalhadas: 200
+valor da hora: 10,25
+salário: 2025,00
+
+Algoritmo:
+FLUXOGRAMA
