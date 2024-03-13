@@ -5,7 +5,7 @@ Olá, agora a atividade desta unidade será utilizar o URI para praticar a inter
 Bom, agora vocês devem acessar o link  
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
-[https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403")  
+[https://www.urionlinejudge.com.br/judge/en/disciplines/join/12273](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/12273> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/12273")  
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
 para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2024_1_A**.  
