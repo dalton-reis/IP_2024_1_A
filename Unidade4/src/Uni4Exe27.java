@@ -31,24 +31,21 @@ public class Uni4Exe27 {
                              */
                             float valorPagar = 0;
                             switch (duracao) {
-                                case 0:
-                                case 1:
-                                    valorPagar = 5;
-                                    break;
-                                case 2:
-                                    valorPagar = 10;
-                                    break;
-                                case 3:
-                                    valorPagar = 17.5f;
-                                    break;
-                                case 4:
-                                    valorPagar = 25;
-                                    break;
-                                default: //>= 5
+                                default: // >= 5
                                     int horasMais = duracao - 4;
                                     valorPagar = 25 + (10 * horasMais);
-                                    break;
+                                case 4:
+                                    valorPagar += 7.5f;
+                                case 3:
+                                    valorPagar += 7.5f;
+                                case 2:
+                                    valorPagar += 5;
+                                case 1:
+                                case 0:
+                                    valorPagar += 5;                               
+
                             }
+
                             System.out.println("Duração em horas: " + duracao);
                             System.out.println("Valor a pagar: R$" + valorPagar);
                         } else {
