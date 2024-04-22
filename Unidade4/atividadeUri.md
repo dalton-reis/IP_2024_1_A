@@ -2,10 +2,12 @@
 
 Olá, voltamos com mais uma atividade no URI para praticar a interpretação de enunciados e descrição dos algoritmos usando a linguagem Java na IDE VSCode para serem validadas no URI.  
 
-Bom, agora depois de vocês entrarem na disciplina com o nome **IP_NOTURNO_2023_2** no URI, no caso  
+Bom, agora depois de vocês entrarem na disciplina com o nome **IP_2024_1_A** no URI, no caso  
 
 <!-- [ ] INICIO atualizar - Link da Disciplina -->
-[https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403")  
+[https://www.urionlinejudge.com.br/judge/en/disciplines/join/12273](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/12273> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/12273")  
+
+
 
 Resolvam os exercícios **Unidade 4 (Controle de Fluxo)**.
 
