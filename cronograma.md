@@ -317,7 +317,7 @@ Fontes: [src](Unidade6/src "src")
  ### [Aula_34](Unidade6/aula.md#Aula_34 " 13-05-2024 segunda-feira ") 13-05-2024 segunda-feira
   
   [Ambiente de Desenvolvimento Prático - Apoio](./Unidade5/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
-  
+- corrigir 10, 13, 32 Lista 5
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
   
