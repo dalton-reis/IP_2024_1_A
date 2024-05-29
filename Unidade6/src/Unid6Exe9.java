@@ -21,9 +21,9 @@ public class Unid6Exe9 {
      */
     public Unid6Exe9() {
         Scanner s = new Scanner(System.in);
-        int notasHomens[] = new int[5];
-        int notasMulheres[] = new int[5];
-        int idadesMulheres[] = new int[5];
+        int notasHomens[] = new int[30];
+        int notasMulheres[] = new int[30];
+        int idadesMulheres[] = new int[30];
 
         inicializarVetores(notasMulheres, notasHomens, idadesMulheres);
         popularVetores(notasMulheres, notasHomens, idadesMulheres);
