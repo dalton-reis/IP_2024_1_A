@@ -44,8 +44,8 @@ Crie  um  vetor  para  armazenar  as  respostas  do  rapaz  e  outro  para  arma
 |-----------|-----------------------------------|
 | 15        | “Casem!                           |
 | 10 a 14   | “Vocês têm muita coisa em comum!” |
-| 5 a 9     | “Talvez não dê certo :(”          |
-| 0 a 4     | “Vale um encontro.”               |
+| 5 a 9     | “Vale um encontro.”               |
+| 0 a 4     | “Talvez não dê certo :(”          |
 | -1 a -9   | “Melhor não perder tempo”         |
 | -10       | “Vocês se odeiam!”                |
 
